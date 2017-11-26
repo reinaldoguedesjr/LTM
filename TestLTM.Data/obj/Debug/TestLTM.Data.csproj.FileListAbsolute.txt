@@ -1,0 +1,12 @@
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\bin\Debug\TestLTM.Data.dll.config
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\bin\Debug\TestLTM.Data.dll
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\bin\Debug\TestLTM.Data.pdb
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\bin\Debug\EntityFramework.dll
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\bin\Debug\TestLTM.Domain.dll
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\bin\Debug\TestLTM.Domain.pdb
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\bin\Debug\EntityFramework.xml
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\obj\Debug\TestLTM.Data.csprojResolveAssemblyReference.cache
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\obj\Debug\TestLTM.Data.dll
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Data\obj\Debug\TestLTM.Data.pdb

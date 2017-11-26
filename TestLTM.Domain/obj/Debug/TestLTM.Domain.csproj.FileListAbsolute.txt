@@ -1,0 +1,5 @@
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Domain\bin\Debug\TestLTM.Domain.dll
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Domain\bin\Debug\TestLTM.Domain.pdb
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Domain\obj\Debug\TestLTM.Domain.csprojResolveAssemblyReference.cache
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Domain\obj\Debug\TestLTM.Domain.dll
+C:\Users\reinaldo.junior\Desktop\TestTML\TestLTM.Domain\obj\Debug\TestLTM.Domain.pdb
